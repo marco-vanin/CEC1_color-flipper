@@ -1,4 +1,4 @@
-# CE1_color-flipper
+# CEC1_color-flipper
 
 - A JavaScript application.
 - Changes the background color of the webpage.
@@ -8,4 +8,4 @@
 - Applies the selected color as the new background color.
 - Demonstrates the use of JavaScript event listeners and CSS property manipulation.
 
-_Coding Everyday 1_
+_Code Everyday Challenge 1_
